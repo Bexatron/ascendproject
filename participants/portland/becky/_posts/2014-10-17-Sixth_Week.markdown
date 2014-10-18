@@ -2,7 +2,7 @@
 layout: post
 title:  "And so it ends"
 author: Becky
-date:   2014-10-017
+date:   2014-10-17
 categories: becky
 ---
 
